@@ -1,4 +1,5 @@
-title: [Hoja de Vida - Juan Raigoso]
-description: [A short description of your site's purpose]
+title: Juan D. Raigoso E.
+logo: /assets/img/headshot_circle.png
+#description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
